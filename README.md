@@ -85,8 +85,9 @@ My focus is on solving **real-world problems** through data-driven systems and m
 
 ---
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sheiknuman287&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
+
+![Sheik Numan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sheiknuman287&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sheiknuman287&layout=compact&theme=tokyonight)
 
