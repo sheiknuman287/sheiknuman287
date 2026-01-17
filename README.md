@@ -95,7 +95,7 @@ My focus is on solving **real-world problems** through data-driven systems and m
 ## 🌍 Let's Connect
 - 💼 Portfolio: *(Coming Soon)*
 - 🐙 GitHub: https://github.com/sheiknuman287
-- 📧 Email: *(add your professional email)*
+- 📧 Email: *sheiknuman25@gmail.com*
 
 ---
 
