@@ -85,14 +85,6 @@ My focus is on solving **real-world problems** through data-driven systems and m
 
 ---
 
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=sheiknuman287&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheiknuman287&layout=compact&theme=tokyonight" />
-
----
-
 ## 🌍 Let's Connect
 - 💼 Portfolio: *(Coming Soon)*
 - 🐙 GitHub: https://github.com/sheiknuman287
